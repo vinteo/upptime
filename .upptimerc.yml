@@ -6,6 +6,8 @@ sites:
     url: https://vincentteo.com
   - name: Starbase Ships by EGOTech
     url: https://starbase.egotech.space
+  - name: test webhook
+    url: https://star1111base.egotec111h.space
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,7 +16,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Website Status by Upptime
-  theme: dark
+  theme: midnight
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
