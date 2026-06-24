@@ -41,16 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/star1111base.egotec111h.space.ico",
     "slug": "test-webhook",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "67.67%",
+    "uptimeDay": "67.67%",
+    "uptimeWeek": "67.67%",
+    "uptimeMonth": "67.67%",
+    "uptimeYear": "67.67%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-24": 0
+    }
   }
 ]
