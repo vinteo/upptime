@@ -6,8 +6,8 @@ sites:
     url: https://vincentteo.com
   - name: Starbase Ships by EGOTech
     url: https://starbase.egotech.space
-  - name: test webhook
-    url: https://star1111base.egotec111h.space
+  - name: test webhook22
+    url: https://star1111222base.egotec122211h.space
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
